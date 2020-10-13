@@ -82,7 +82,7 @@ if g:material_theme_style == 'palenight' || g:material_theme_style == 'palenight
   let s:comments = { 'gui': '#676e95', 'cterm': 60 }
   let s:selection = { 'gui': '#343b51', 'cterm': 60 }
   let s:guides = { 'gui': '#4e5579', 'cterm': 60 }
-  let s:line_numbers = { 'gui': '#3a3f58', 'cterm': 60 }
+  let s:line_numbers = { 'gui': '#676e95', 'cterm': 60 }
   let s:line_highlight = { 'gui': '#1c1f2b', 'cterm': 234 }
 elseif g:material_theme_style == 'darker' || g:material_theme_style == 'darker-community'
   let s:bg = { 'gui': '#212121', 'cterm': 'none' }
